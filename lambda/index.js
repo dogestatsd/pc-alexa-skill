@@ -470,7 +470,7 @@ exports.handler = Alexa.SkillBuilders.custom()
         ErrorHandler)
     .addRequestInterceptors(LoadPersistentAttributesRequestInterceptor)
     .addResponseInterceptors(SavePersistentAttributesResponseInterceptor)
-    .withCustomUserAgent('sample/audioplayer-nodejs/v2.0')
+    .withCustomUserAgent('plagacloud/Alexa 1.0')
     // .withPersistenceAdapter(
     //     new ddbAdapter.DynamoDbPersistenceAdapter({
     //         tableName: process.env.DYNAMODB_PERSISTENCE_TABLE_NAME,
