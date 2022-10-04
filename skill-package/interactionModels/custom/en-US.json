@@ -56,7 +56,7 @@
           ]
         },
         {
-          "name": "ListenToPlugStream",
+          "name": "ListenToWCALI",
           "slots": [],
           "samples": [
             "play w cali",
