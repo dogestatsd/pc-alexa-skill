@@ -1,0 +1,34 @@
+{
+  "manifest": {
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": ""
+        },
+        "interfaces": [
+          {
+            "type": "AUDIO_PLAYER"
+          }
+        ]
+      }
+    },
+    "manifestVersion": "1.0",
+    "publishingInformation": {
+      "category": "MUSIC_AND_AUDIO_ACCESSORIES",
+      "distributionCountries": [],
+      "isAvailableWorldwide": true,
+      "locales": {
+        "en-US": {
+          "description": "PlagaCloud skill for Alexa.",
+          "examplePhrases": [
+            "Alexa, listen to PlugStream on PlagaCloud."
+          ],
+          "keywords": [],
+          "name": "PlagaCloud Alexa Skill",
+          "summary": "An Alexa Skill FOR TESTING ONLY. THIS IS NOT FOR DISTRIBUTION. THE INTENT OF THIS APPLICATION IS TO TEST THE QUALITY LEVELS OF HLS (HTTP LIVE STREAMING) AUDIO."
+        }
+      },
+      "testingInstructions": "read the instructions."
+    }
+  }
+}

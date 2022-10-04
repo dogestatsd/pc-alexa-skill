@@ -1,0 +1,89 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "PlagaCloud Alexa Skill",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "ListenToPlugStream",
+          "slots": [],
+          "samples": [
+            "play plugstream",
+            "play plugstream on plagacloud",
+            "listen to plugstream",
+            "listen to plugstream on plagacloud"
+          ]
+        },
+        {
+          "name": "ListenToOGCast",
+          "slots": [],
+          "samples": [
+            "play og cast",
+            "play og cast on plagacloud",
+            "listen to og cast",
+            "listen to og cast on plagacloud"
+          ]
+        },
+        {
+          "name": "ListenToTheMove",
+          "slots": [],
+          "samples": [
+            "play the move",
+            "play the move on plagacloud",
+            "listen to the move",
+            "listen to the move on plagacloud"
+          ]
+        },
+        {
+          "name": "ListenToRacoonSaloon",
+          "slots": [],
+          "samples": [
+            "play racoon saloon",
+            "play racoon saloon on plagacloud",
+            "listen to racoon saloon",
+            "listen to racoon saloon on plagacloud"
+          ]
+        },
+        {
+          "name": "ListenToPlugStream",
+          "slots": [],
+          "samples": [
+            "play w cali",
+            "play w cali on plagacloud",
+            "listen to w cali",
+            "listen to w cali on plagacloud"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.PauseIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.ResumeIntent",
+          "samples": []
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "3"
+}
